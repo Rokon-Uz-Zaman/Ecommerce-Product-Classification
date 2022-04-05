@@ -1,4 +1,4 @@
-# Ecommerce-Products-Classification
+Ecommerce Product images Classification
 
 Dataset : https://www.kaggle.com/zalando-research/fashionmnist
 
